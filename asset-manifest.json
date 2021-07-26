@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/czytanie-sylabowe/static/css/main.a0885395.chunk.css",
-    "main.js": "/czytanie-sylabowe/static/js/main.1a8c5180.chunk.js",
-    "main.js.map": "/czytanie-sylabowe/static/js/main.1a8c5180.chunk.js.map",
+    "main.css": "/czytanie-sylabowe/static/css/main.4cf7e2df.chunk.css",
+    "main.js": "/czytanie-sylabowe/static/js/main.aea1d22c.chunk.js",
+    "main.js.map": "/czytanie-sylabowe/static/js/main.aea1d22c.chunk.js.map",
     "runtime-main.js": "/czytanie-sylabowe/static/js/runtime-main.fc98a23d.js",
     "runtime-main.js.map": "/czytanie-sylabowe/static/js/runtime-main.fc98a23d.js.map",
     "static/js/2.f820caec.chunk.js": "/czytanie-sylabowe/static/js/2.f820caec.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.d621ab7a.chunk.js": "/czytanie-sylabowe/static/js/3.d621ab7a.chunk.js",
     "static/js/3.d621ab7a.chunk.js.map": "/czytanie-sylabowe/static/js/3.d621ab7a.chunk.js.map",
     "index.html": "/czytanie-sylabowe/index.html",
-    "static/css/main.a0885395.chunk.css.map": "/czytanie-sylabowe/static/css/main.a0885395.chunk.css.map",
+    "static/css/main.4cf7e2df.chunk.css.map": "/czytanie-sylabowe/static/css/main.4cf7e2df.chunk.css.map",
     "static/js/2.f820caec.chunk.js.LICENSE.txt": "/czytanie-sylabowe/static/js/2.f820caec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fc98a23d.js",
     "static/js/2.f820caec.chunk.js",
-    "static/css/main.a0885395.chunk.css",
-    "static/js/main.1a8c5180.chunk.js"
+    "static/css/main.4cf7e2df.chunk.css",
+    "static/js/main.aea1d22c.chunk.js"
   ]
 }
